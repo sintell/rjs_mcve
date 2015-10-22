@@ -1,0 +1,15 @@
+{
+  "name": "rjs_mcve",
+  "version": "0.0.1",
+  "description": "MCVE for question about rjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sintell",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "requirejs": "^2.1.20"
+  }
+}
